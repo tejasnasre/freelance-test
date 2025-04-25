@@ -2,8 +2,6 @@ import React, { useState, useEffect, useRef } from "react";
 import {
   Search,
   X,
-  ChevronDown,
-  ChevronUp,
   MapPin,
   Calendar,
   Award,

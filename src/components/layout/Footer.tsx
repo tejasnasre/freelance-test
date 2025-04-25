@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from "./Logo";
 import { Facebook, Twitter, Instagram, Linkedin } from "lucide-react";
 
 const Footer: React.FC = () => {
